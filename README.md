@@ -45,9 +45,9 @@ I am **Preslav Petrov** – an aspiring **Fullstack Developer** currently focuse
     - Used layered architecture with services, DI, and EF
   </td>
   <td>
-    - Clean Architecture and SOLID principles<br/>
-    - Blazor and WebAssembly<br/>
-    - Writing unit and integration tests<br/>
+    <br/>
+    <br/>
+    <br/>
     - Hosting projects in cloud (Azure/AppHarbor)
   </td>
 </tr>
