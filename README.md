@@ -24,7 +24,7 @@
 
 ## 📫 Connect with me
 - [Instagram](https://www.instagram.com/p.petrovr___/)
-- 📬 Email: _youremail@example.com_
+- 📬 Email: _tsrlegend06@gmail.com_
 
 ---
 
