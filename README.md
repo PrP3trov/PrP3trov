@@ -58,10 +58,6 @@ I am **Preslav Petrov** – an aspiring **Fullstack Developer** currently focuse
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrP3trov&layout=compact&theme=tokyonight)
 
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/PrP3trov/PrP3trov/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🌐 Connect With Me
