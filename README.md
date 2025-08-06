@@ -45,9 +45,6 @@ I am **Preslav Petrov** – an aspiring **Fullstack Developer** currently focuse
     - Used layered architecture with services, DI, and EF
   </td>
   <td>
-    <br/>
-    <br/>
-    <br/>
     - Hosting projects in cloud (Azure/AppHarbor)
   </td>
 </tr>
@@ -60,13 +57,6 @@ I am **Preslav Petrov** – an aspiring **Fullstack Developer** currently focuse
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrP3trov&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrP3trov&layout=compact&theme=tokyonight)
 
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=PrP3trov&theme=monokai&column=7)
-
----
 
 ## 🐍 Contribution Snake
 
@@ -79,7 +69,7 @@ I am **Preslav Petrov** – an aspiring **Fullstack Developer** currently focuse
 <a href="https://www.instagram.com/p.petrovr___/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="mailto:your_email@example.com" target="_blank">
+<a href="mailto:tsrlegend06@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
