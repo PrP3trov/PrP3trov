@@ -66,7 +66,7 @@ I am **Preslav Petrov** – an aspiring **Fullstack Developer** currently focuse
 
 ## 🌐 Connect With Me
 
-<a href="https://www.instagram.com/p.petrovr___/" target="_blank">
+<a href="https://www.instagram.com/p.petrov___/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:tsrlegend06@gmail.com" target="_blank">
