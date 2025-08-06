@@ -45,6 +45,9 @@ I am **Preslav Petrov** – an aspiring **Fullstack Developer** currently focuse
     - Used layered architecture with services, DI, and EF
   </td>
   <td>
+    - Clean Architecture and SOLID principles<br/>
+    - Blazor and WebAssembly<br/>
+    - Writing unit and integration tests<br/>
     - Hosting projects in cloud (Azure/AppHarbor)
   </td>
 </tr>
@@ -57,18 +60,16 @@ I am **Preslav Petrov** – an aspiring **Fullstack Developer** currently focuse
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrP3trov&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrP3trov&layout=compact&theme=tokyonight)
 
-
-
-
-
 ---
+
+
 
 ## 🌐 Connect With Me
 
-<a href="https://www.instagram.com/p.petrov___/" target="_blank">
+<a href="https://www.instagram.com/p.petrovr___/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="mailto:tsrlegend06@gmail.com" target="_blank">
+<a href="mailto:your_email@example.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
